@@ -23,3 +23,14 @@ I dont know what to do with this, I'm just doing what I'm seeing
 ## Links
 - **Markdown cheat sheet**: https://www.markdownguide.org/cheat-sheet/
 - **Markdown and Latex**: https://ashki23.github.io/markdown-latex.html
+
+## Code
+- **git clone** 
+```bash
+git clone <url> 
+```
+- **git commit**
+```bash
+git commit -m "message"
+
+```
